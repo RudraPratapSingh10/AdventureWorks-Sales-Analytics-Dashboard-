@@ -73,7 +73,7 @@ fact_sales      →  60,379 sales transactions (Revenue, Quantity, OrderDate)
                     ┌─────────────────┐
                     │   fact_sales    │
                     │─────────────────│
-              ┌────▶│  ProductKey     │◀────┐
+               ────▶   ProductKey     ◀───|
               │     │  CustomerKey    │     │
               │     │  OrderDate      │     │
               │     │  SalesAmount    │     │
@@ -81,12 +81,12 @@ fact_sales      →  60,379 sales transactions (Revenue, Quantity, OrderDate)
               │     └─────────────────┘     │
               │                             │
    ┌──────────────────┐        ┌────────────────────┐
-   │  dim_products    │        │   dim_customers     │
+   │  dim_products    │        │   dim_customers    │
    │──────────────────│        │────────────────────│
-   │  ProductID       │        │  CustomerID         │
-   │  ProductName     │        │  Country            │
-   │  Category        │        │  Gender             │
-   │  Subcategory     │        │  MaritalStatus      │
+   │  ProductID       │        │  CustomerID        │
+   │  ProductName     │        │  Country           │
+   │  Category        │        │  Gender            │
+   │  Subcategory     │        │  MaritalStatus     │
    │  ProductLine     │        └────────────────────┘
    │  ListPrice       │
    └──────────────────┘
