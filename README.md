@@ -133,7 +133,7 @@ Just open `adventureworks_dashboard.html` in any modern browser. No server neede
 **Rudra Pratap Singh**
 
 [![GitHub](https://img.shields.io/badge/GitHub-RudraPratapSingh10-black?logo=github)](https://github.com/RudraPratapSingh10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudra%20Pratap%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/rudra-pratap-singhya-19491431a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudra%20Pratap%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/rudra-pratap-singh10)
 
 ---
 
